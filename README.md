@@ -1,6 +1,6 @@
 # STAR
 
-This is a reference implemenmtation for Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs (IJCAI'19).
+This is a reference implementation for Spatio-Temporal Attentive RNN for Node Classification in Temporal Attributed Graphs (IJCAI'19).
 
 Please feel free to contact Dongkuan Xu (dux19@psu.edu) if you have any question.
 
